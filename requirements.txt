@@ -1,0 +1,14 @@
+cloudinary==1.40.0
+Flask==3.0.3
+Flask_Admin==1.6.1
+Flask_Login==0.6.3
+Flask_Mail==0.9.1
+flask_sqlalchemy==3.1.1
+itsdangerous==2.1.2
+oauthlib==3.2.2
+paypal_checkout_serversdk==1.0.3
+paypalhttp==1.0.1
+protobuf==5.26.1
+Requests==2.31.0
+SQLAlchemy==2.0.29
+webapp2==2.5.2
